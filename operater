@@ -1,0 +1,8 @@
+r=10
+x=r**5
+r%=x
+print(r)
+a=10
+b=20
+c=a//b
+print(c)
