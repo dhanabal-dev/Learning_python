@@ -25,3 +25,13 @@ elif(cal=="div"):
    print(a/b)
 else:
    print("hi")
+#AVERAGE
+a=int(100)
+b=int(40)
+c=int(60)
+d=int(90)
+e=(a+b+c+d)/4
+if(e>=35):
+   print("pass")
+else:
+   print("average")
